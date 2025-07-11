@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ## 2.转engine
 
 ```python
+# 首先从官网下载所需要检测的图像大小的onnx文件 链接为：https://github.com/open-mmlab/mmpose/tree/main/projects/rtmpose
 conda activate rtmpose
 cd ./RTMPose/export_engine/rtmlib-main/
 python export.py
