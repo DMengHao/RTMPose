@@ -23,3 +23,4 @@ python export.py
 修改RTMPose_TRT.py里面的输入输出及其engine路径
 
 之后运行测试python RTMPose_TRT.py即可得到推理出的结果
+<div align="center"> <img src="./images/demo.jpg" width="45%" style="display:inline-block; margin-right:10px;"> <img src="./images/result_demo.jpg" width="45%" style="display:inline-block;"> </div>
